@@ -135,7 +135,7 @@ dart run
 ## Author
 
 Sumaiya Akter Runa  
-Flutter Developer and UX Designer  
+Flutter Developer  
 
 ---
 
